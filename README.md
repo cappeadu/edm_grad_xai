@@ -52,7 +52,7 @@ grad_rate_training_predict.ipynb #contains the codes for machine learning and XA
 
 ```
 ## 📄 Paper Link
-[Link to paper:https://zenodo.org/records/18238053](https://zenodo.org/records/18238053)
+[Link to paper: https://zenodo.org/records/18238053](https://zenodo.org/records/18238053)
 
 ## 🧠 Author
 Clement Appeadu  
